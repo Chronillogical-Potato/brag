@@ -128,6 +128,9 @@ More physical and cinematic. Excellent for big moments and transitions.
 | `impactGlass_medium_000.ogg`, `_002.ogg`, `_004.ogg` | Glass tap | Mid-weight accent |
 | `impactGlass_heavy_002.ogg` | Glass shatter | Chaotic hit |
 | `impactMining_001.ogg` | Mining strike | Industrial, heavy |
+| `footstep_wood_000.ogg`, `_001.ogg`, `_002.ogg`, `_004.ogg` | Soft wood footstep | Light tap, step-through or scroll accent |
+
+The other `footstep_*` files (wood `_003`, concrete, grass, snow, carpet) are not approved.
 
 ### `casino/` — Card and chip sounds
 
