@@ -27,7 +27,7 @@ Suggested plan notation:
 Audio-reactive treatment: subtle; use music RMS/bass to make the hero glow and product card presence breathe. No waveform/equalizer visuals.
 ```
 
-Hyperframes implementation note: follow the audio-reactive guidance owned by the `hyperframes-creative` skill (let that skill locate its own files), to extract per-frame audio data and sample it synchronously inside the composition timeline. The extraction helper ships with that skill — `/brag` does not provide it, so don't hardcode a path to it.
+Hyperframes implementation note: follow the audio-reactive guidance owned by the `media-use` skill (`audio/references/captions/motion.md`; let that skill locate its own files), to extract per-frame audio data and sample it synchronously inside the composition timeline. That file is written for captions: use its build-time audio modulation pattern on brand elements (glow, halo, card presence), not on caption groups. The extraction helper (`audio/scripts/extract-audio-data.py`) ships with that skill — `/brag` does not provide it, so don't hardcode a path to it.
 
 ---
 

@@ -42,7 +42,7 @@ npx hyperframes render --quality draft --output ../brag.mp4
 
 For final delivery:
 ```bash
-npx hyperframes render --quality high --output ../brag.mp4
+npx hyperframes render --quality delivery --output ../brag.mp4
 ```
 
 ## Pick the poster frame
