@@ -144,7 +144,7 @@ You get a `brag-output/` folder with the plan, a composition brief, share copy, 
 
 ## Credits
 
-- Music — [ende.app](https://ende.app/en) "Happy Beats / Business Moves"
+- Music — [ende.app](https://ende.app/en) "Happy Beats / Business Moves" (CC BY 4.0)
 - Sound effects — [Kenney](https://kenney.nl/)
 - Video generation — [Hyperframes](https://hyperframes.heygen.com/)
 - Fake demo sites — built with [Impeccable](https://impeccable.style/)

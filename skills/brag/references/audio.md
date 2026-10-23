@@ -1,6 +1,6 @@
 # Audio reference
 
-All SFX are CC0 (Kenney.nl, public domain). Music and SFX should be used by default unless the user passes `--no-music`, `--no-sfx`, the required assets are missing, or the plan explicitly chooses silence as the strongest creative move.
+All SFX are CC0 (Kenney.nl, public domain). The bundled music is CC BY 4.0 by Sascha Ende (ende.app); see `assets/music/README.md`. Music and SFX should be used by default unless the user passes `--no-music`, `--no-sfx`, the required assets are missing, or the plan explicitly chooses silence as the strongest creative move.
 
 Bias toward a smooth, professional result: one tasteful music bed plus a small number of well-timed SFX usually feels better than silence.
 
