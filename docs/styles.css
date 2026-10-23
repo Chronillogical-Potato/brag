@@ -5,7 +5,7 @@
 
   --hero-bg: oklch(64% 0.22 var(--hue));
   --hero-ink: oklch(16% 0.06 var(--hue));
-  --hero-ink-soft: oklch(28% 0.06 var(--hue));
+  --hero-ink-soft: oklch(23% 0.06 var(--hue));
   --hero-tint: oklch(96% 0.02 var(--hue));
 
   --dark-bg: oklch(14% 0.03 var(--hue));
